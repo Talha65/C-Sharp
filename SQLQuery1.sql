@@ -1,0 +1,1 @@
+﻿update FoodItem set Drink_Price = 100;

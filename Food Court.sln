@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodManagement", "WindowsFormsApp1\FoodManagement.csproj", "{636F82F1-6C28-437B-BC3D-860DC6136C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRepository", "FoodRepository\FoodRepository.csproj", "{17BDF3E4-0961-4C77-A393-E48857D3585B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636F82F1-6C28-437B-BC3D-860DC6136C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636F82F1-6C28-437B-BC3D-860DC6136C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636F82F1-6C28-437B-BC3D-860DC6136C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636F82F1-6C28-437B-BC3D-860DC6136C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BDF3E4-0961-4C77-A393-E48857D3585B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BDF3E4-0961-4C77-A393-E48857D3585B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BDF3E4-0961-4C77-A393-E48857D3585B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BDF3E4-0961-4C77-A393-E48857D3585B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC750EFD-92CA-44F9-9F9D-CC49A6998176}
+	EndGlobalSection
+EndGlobal
